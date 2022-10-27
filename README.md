@@ -1,0 +1,1 @@
+# batch-zoom-link-generator
